@@ -1,0 +1,42 @@
+header {
+  margin: -10px;
+  padding: 0;
+}
+.leftbar-cont {
+  background-color: black;
+  padding: 9px;
+
+}
+ .rightbar-cont {
+  float: right;
+  margin-top: -70px;
+  background: pink;
+  color: black;
+}
+
+.top{
+  font-size: 20px;
+  color: white;
+  margin-top: 10px;
+
+}
+.top p{
+text-align: right;
+margin-top: -29px;
+margin-right: 160px;
+}
+.logo-cont {
+  color: black;
+}
+.navbar-cont {
+  text-align: right;
+}
+.navbar-cont ul li{
+  display: inline-block;
+  padding: 20px;
+  margin-right: 20px;
+
+}
+.navbar-cont ul li a{
+    text-decoration: none;
+}
